@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="AniShift" width="100%"/>
+<img src="./assets/og-image.png" alt="AniShift" width="100%"/>
 
 <a href="https://anishift.netlify.app/home">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anishift+%F0%9F%91%8B;Building+AniShift+%F0%9F%8E%8C;Sinhala+Subtitles+for+the+Community+%F0%9F%87%B1%F0%9F%87%B0;Python+%7C+Web+Development" alt="Typing SVG" />
